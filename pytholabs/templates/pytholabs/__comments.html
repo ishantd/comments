@@ -1,0 +1,8 @@
+{% load comments %}
+{% load comments_xtd %}
+
+    {% render_comment_form for m %}
+
+    <ul class="media-list" id="comment-list">
+        {% render_xtdcomment_tree for m %}
+    </ul>
