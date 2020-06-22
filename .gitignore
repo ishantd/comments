@@ -1,1 +1,8 @@
 env
+templates/comments/form_ref.html
+templates/comments/form_tut.html
+templates/comments/preview.html
+templates/django_comments_xtd/email_confirmation_request.html
+templates/django_comments_xtd/email_confirmation_request.txt
+templates/django_comments_xtd/comment_tree_ref.html
+templates/django_comments_xtd/comments_tut.html
